@@ -7,7 +7,9 @@
 * Nanomaterials
 
 ---------------
-
 ### <ins>Work Experience</ins>
 * **Aug 2024 - Present**: Software Engineer @<a href="https://www.capitalone.com/">Capital One</a>
-* **Aug 2020 - Aug 2024**: Physics Doctoral Student @<a href="https://www.phys.virginia.edu/">University of Virginia</a> 
+
+---------------
+* **Aug 2020 - Aug 2024**: Physics Doctoral Student @<a href="https://www.phys.virginia.edu/">University of Virginia</a>
+* **Aug 2016 - May 2020**: Physics and Math BS @<a href="https://www.phys.virginia.edu/">University of Virginia</a> 
