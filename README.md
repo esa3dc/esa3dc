@@ -8,5 +8,5 @@
 ---------------
 
 ### <ins>Work Experience</ins>
-* **Aug 2024 - Present**: Software Engineer @<a href="https://www.amd.com/en.html">Capital One</a>
-* **Aug 2020 - Aug 2024**: Physics Doctoral Student @<a href="https://med.stanford.edu/">University of Virginia</a> @<a href="https://www.hiesingerlab.com/">Charlottesville</a>
+* **Aug 2024 - Present**: Software Engineer @<a href="https://www.capitalone.com/">Capital One</a>
+* **Aug 2020 - Aug 2024**: Physics Doctoral Student @<a href="https://www.phys.virginia.edu/">University of Virginia</a> 
